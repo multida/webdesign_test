@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>웹디자인기능사 1</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+
+</head>
+<body>
+    <div id="wrap">
+        <header>
+            <h1>로고</h1>
+            <nav>
+                <ul class="gnb_list">
+                    <li>
+                        <a href="#">MENU-1</a>
+                        <ul class="submenu">
+                            <li><a href="#">SubMenu-1</a></li>
+                            <li><a href="#">SubMenu-2</a></li>
+                            <li><a href="#">SubMenu-3</a></li>
+                            <li><a href="#">SubMenu-4</a></li>
+                        </ul>
+                    </li>
+                     <li>
+                        <a href="#">MENU-2</a>
+                        <ul class="submenu">
+                            <li><a href="#">SubMenu-1</a></li>
+                            <li><a href="#">SubMenu-2</a></li>
+                            <li><a href="#">SubMenu-3</a></li>
+                            <li><a href="#">SubMenu-4</a></li>
+                        </ul>
+                    </li>
+                     <li>
+                        <a href="#">MENU-3</a>
+                        <ul class="submenu">
+                            <li><a href="#">SubMenu-1</a></li>
+                            <li><a href="#">SubMenu-2</a></li>
+                            <li><a href="#">SubMenu-3</a></li>
+                            <li><a href="#">SubMenu-4</a></li>
+                        </ul>
+                    </li>
+                     <li>
+                        <a href="#">MENU-4</a>
+                        <ul class="submenu">
+                            <li><a href="#">SubMenu-1</a></li>
+                            <li><a href="#">SubMenu-2</a></li>
+                            <li><a href="#">SubMenu-3</a></li>
+                            <li><a href="#">SubMenu-4</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <div class="visualWrap clearfix">
+            <div class="visual">
+                <ul>
+                    <li>이미지1</li>
+                    <li>이미지1</li>
+                    <li>이미지1</li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>
